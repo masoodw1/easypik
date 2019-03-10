@@ -2,5 +2,6 @@
   "name": "project_dummy",
   "integrations": {},
   "type": "angular",
-  "strict-ssl": false
+  "strict-ssl": false,
+  "id": "7be6f116"
 }
